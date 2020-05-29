@@ -90,3 +90,13 @@ npm start
 * [x] Task 1
 * [x] Task 2
 * [ ] Task 3
+
+
+## Bonus Markdown
+* Change text color
+
+Some Markdown text with <span style="background-color:blue;color:yellow">some *white* color
+and *black* background
+</span>.
+
+<span style="background-color:black;font-size:16px;font-family:'courier new'">$ git init</span>
